@@ -6,7 +6,7 @@
 
 # <div align="center">I'm Ajeeth Kumar G, full-stack  developer 👨‍💻 </div>  
   
--  I’m currently working on DXC Technology Pvt Ltd.  
+-  I’m currently working in DXC Technology Pvt Ltd.  
   
 -  I'm a full stack developer. I like to work with React, Firebase, AWS, MongoDB, NodeJS and Java. I'm a open-source development enthusiast.
 
