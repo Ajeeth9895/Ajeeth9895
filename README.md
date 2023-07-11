@@ -31,6 +31,6 @@ I'm a full stack developer. I like to work with React, Firebase, AWS, <br>MongoD
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ajeeth9895&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Ajeeth9895&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Ajeeth9895&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
